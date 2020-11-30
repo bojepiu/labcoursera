@@ -1,0 +1,10 @@
+{
+  "ls":{
+    "description":"Muestra un listado con los archivos y directorios de un determinado directorio",
+    "arguments":[{"l":"Muestra como lista con mas detalles"},{"a":"Muestra los archivos ocultos"},{"r":"Orden en reversa"}]},
+  "pwd":{
+    "description":"Muestra la ruta absoluta del directorio actual",
+    "arguments":[{"L":"Muestra si contiene symlinks"} ]
+  }
+}
+
